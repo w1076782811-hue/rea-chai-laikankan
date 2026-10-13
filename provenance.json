@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-14",
+  "runtime": {
+    "package": "rea-agents",
+    "version": "6.4.0",
+    "repository": "https://github.com/morluto/rea",
+    "commit_reviewed": "7e3a19863835215491b55fba7127a78bad6a7709"
+  },
+  "reference": {
+    "repository": "https://github.com/hubooooooo/chaichai",
+    "commit_reviewed": "74ec6d01074c7df4a0e635bb59b8fe50e5a27607",
+    "adapted": [
+      "Chinese beginner guidance",
+      "convenient local entry point",
+      "analysis-to-implementation explanation"
+    ]
+  }
+}

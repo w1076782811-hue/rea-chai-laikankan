@@ -1,0 +1,10 @@
+{
+  "name": "rea-chai-laikankan",
+  "version": "1.0.0",
+  "private": true,
+  "description": "REA拆来看看：固定版本 REA 的中文 Codex Skill",
+  "license": "MIT",
+  "dependencies": {
+    "rea-agents": "6.4.0"
+  }
+}
